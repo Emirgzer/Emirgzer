@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Emir Gizer  
 
-<!--
-**Emirgzer/Emirgzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Science Student @ **University of Bristol**  
+💡 Interests: AI, Web Design, Game Development, Automation, Business & E-Commerce, Machine Learning, Algorithms, Calculus.
+🌱 Currently learning: AI, Java, Go, Data, Algorithms, C, Computer Systems, Programming Languages & Computations, Software & Hardware, Algorithms, Calculus, Mathematics, High Performance Programming Languages  
+🚀 Actively building my GitHub profile and sharing projects regularly.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** Java, Python, C, Haskell, Assembly, Go  
+- **Tools & Frameworks:** Git, Playwright, Vscode, IntelliJ IDEA
+- **Domains:** Artificial Intelligence, Game Development, Automation, Web Design
+
+---
+
+## 📫 Contact Me
+- 💼 [LinkedIn](#Emir Gizer)  
+- ✉️ emirgizer@gmail.com // nh24391@bristol.ac.uk
+
+---
+
+### ✨ Fun Facts
+In my free time, you’ll find me swimming 🏊, at the gym 🏋️, gaming 🎮, or listening to music 🎵.  
+
