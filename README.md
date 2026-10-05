@@ -17,17 +17,17 @@ Final Year BSc Computer Science student at the **University of Bristol**. Passio
 ### 🚀 Highlighted Project: Multi-Tenant ERP Catalog Transformer & Audit Engine
 
 - **End-to-End Data Pipeline:** Designed an automated engine that ingests, cleans, and transforms raw enterprise ERP inventory records into standardized, production-ready product catalogs.
-- **AI-Powered Data Enrichment:** Leveraged web scrapers and verified LLM endpoints to automatically enrich metadata and infer missing product attributes[cite: 6].
-- **Data Integrity & Trust Scoring:** Built a deterministic trust-scoring algorithm to validate ingested data quality, routing anomalies and low-confidence records to an interactive human-in-the-loop audit interface[cite: 6].
-- **Multi-Tenant Isolation:** Enforced strict tenant separation using PostgreSQL Row-Level Security (RLS), role-based access control, and immutable audit logs[cite: 6].
-- **Automated Reconciliation:** Integrated asynchronous workers to handle background price and tax conversions across complex catalog datasets[cite: 6].
+- **AI-Powered Data Enrichment:** Leveraged web scrapers and verified LLM endpoints to automatically enrich metadata and infer missing product attributes.
+- **Data Integrity & Trust Scoring:** Built a deterministic trust-scoring algorithm to validate ingested data quality, routing anomalies and low-confidence records to an interactive human-in-the-loop audit interface.
+- **Multi-Tenant Isolation:** Enforced strict tenant separation using PostgreSQL Row-Level Security (RLS), role-based access control, and immutable audit logs.
+- **Automated Reconciliation:** Integrated asynchronous workers to handle background price and tax conversions across complex catalog datasets.
 
 ---
 
 ### 🌐 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/Emirgizer](https://www.linkedin.com/in/Emirgizer)[cite: 6]
-- **Email:** [emirgizer@gmail.com](mailto:emirgizer@gmail.com)[cite: 6] • [nh24391@bristol.ac.uk](mailto:nh24391@bristol.ac.uk)[cite: 6]
+- **LinkedIn:** [linkedin.com/in/Emirgizer](https://www.linkedin.com/in/Emirgizer)
+- **Email:** [emirgizer@gmail.com](mailto:emirgizer@gmail.com) • [nh24391@bristol.ac.uk](mailto:nh24391@bristol.ac.uk)
 
 ---
 
